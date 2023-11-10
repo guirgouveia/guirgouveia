@@ -48,3 +48,6 @@
 
     On AWS, I orchestrated container deployment and management using Amazon EKS (Elastic Kubernetes Service), leveraged AWS Lambda for serverless application execution, and managed data consistency and replication across microservices with Amazon DynamoDB. For object storage and backup, I've utilized Amazon S3 for its scalability and data availability. Infrastructure as code was streamlined through Terraform and AWS CloudFormation, allowing me to define and provision AWS infrastructure efficiently. To automate and enhance the deployment process, I employed AWS CodePipeline and CodeBuild for continuous integration and delivery tailored to microservices architecture
 
+## 7. Can you share your experience with implementing Continuous Integration/Continuous Deployment (CI/CD) pipelines? What tools and methodologies have you used in this context?
+
+    I've worked with many tools for CICD pipeline development and currently, I've been adopting GitOps workflows more often. These tools include Jenkins, GitLab CI, Azure DevOps, AWS CodePipeline, GitHub Actions, FluxCD and ArgoCD.
