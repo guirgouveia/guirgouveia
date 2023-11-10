@@ -39,3 +39,12 @@
     I also got to play around with Service Mesh using Istio, which was great for managing microservices communication. I had some fun testing out Canary Deployments with Flagger to make our release process safer and smoother.
     
     You can find some DevOps projects including one specific for GitOps CD that bootstraps FluxCD to a Kubernetes Cluster to create a rich DevOps environment comprised of monitoring, continuous deployment, automation, container orchestration, infrastructure as code, as well as some SRE insights.
+
+## 6. What's your experience with cloud-native apps?
+
+    All of the projects I worked on involved a strong focus on cloud-native apps, particularly using microservices architecture to enhance scalability and resilience. Leveraging container orchestration with Kubernetes, I ensured seamless deployment and management of microservice-based applications across AWS and Azure environments. To showcase this ability, I am currently developing this cloud-native [Golang app](github.com/guirgouveia/go-vuejs-microservices) and you can see that along with the deployment, I'm also developing the containerization and container orchestration files. This app still needs to be decoupled into microservices.  
+        
+    On Azure, I've utilized AKS (Azure Kubernetes Service) for orchestrating containers, employed Azure Functions for event-driven, serverless compute scenarios, and managed state with Azure Cosmos DB's globally distributed database service. For storage solutions, I've implemented Azure Blob Storage for its high durability and availability. My infrastructure as code approach was facilitated through Terraform and Azure Resource Manager templates, and I've harnessed the power of Azure DevOps and GitHub Actions to create robust CI/CD pipelines that enhance and support microservices deployments seamlessly.
+
+    On AWS, I orchestrated container deployment and management using Amazon EKS (Elastic Kubernetes Service), leveraged AWS Lambda for serverless application execution, and managed data consistency and replication across microservices with Amazon DynamoDB. For object storage and backup, I've utilized Amazon S3 for its scalability and data availability. Infrastructure as code was streamlined through Terraform and AWS CloudFormation, allowing me to define and provision AWS infrastructure efficiently. To automate and enhance the deployment process, I employed AWS CodePipeline and CodeBuild for continuous integration and delivery tailored to microservices architecture
+
