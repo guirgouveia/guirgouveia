@@ -26,9 +26,9 @@
 
 ## 5. What's your experience with Windows Servers?
     
-    In my last project, I worked a lot with Windows Servers and handled a mix of .NET applications. Some were built using the newer .NET Core, while others were on ASP.NET version 4.
+    In my last project, I worked extensively with Windows Servers and handled the containerization of .NET applications. Some were built using the newer .NET Core, while others were on ASP.NET version 4.
     
-    We set up a self-hosted Octopus Deploy on a Kubernetes cluster, which we created using Terraform. This helped us manage the deployment of our apps to the Windows Servers and the Kubernetes clusters smoothly.
+    I set up a self-hosted Octopus Deploy on a Kubernetes cluster, which we created using Terraform, to run automated routines and CICD pipelines in PowerShell. This helped the company manage the deployment of apps to the Windows Servers and the Kubernetes clusters smoothly.
 
 ## 5. What's your experience with Kubernetes?
 
