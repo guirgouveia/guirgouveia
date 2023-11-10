@@ -6,7 +6,7 @@
 
     Incorporating security measures from the early stages of process development has been a key focus of mine, especially with the integration of DevSecOps practices. My background in software development has been invaluable in understanding how to integrate these security practices throughout the development lifecycle.
 
-    Having completed a Postgraduate course in Data Science, I've applied DevOps principles to data-centric environments, involving DataOps and MLOps projects. Moreover, my tenure as a Big Data Engineer in Germany provided me with practical experience with Kafka. Nowadays, I pursue great interest in continuing working and learning more about this intersection between DevOps and Data Science, so I’m really excited to be part of the team.
+    Having completed a Postgraduate course in Data Science, I've applied DevOps principles to data-centric environments, involving DataOps and MLOps projects. Moreover, my tenure as a Big Data Engineer in Germany provided me with practical experience with Kafka. Nowadays, I have a great interest in continuing working and learning more about this intersection between DevOps and Data Science, and I'm currently working on my own [MLOps project](github.com/guirgouveia/mlops).
 
     My role has also extended to performance monitoring and optimization, employing tools like Prometheus and Grafana to gain insights into system behavior and resource utilization. This data-driven approach has been key in making informed decisions to optimize performance and scalability.
 
@@ -51,3 +51,9 @@
 ## 7. Can you share your experience with implementing Continuous Integration/Continuous Deployment (CI/CD) pipelines? What tools and methodologies have you used in this context?
 
     I've worked with many tools for CICD pipeline development and currently, I've been adopting GitOps workflows more often. These tools include Jenkins, GitLab CI, Azure DevOps, AWS CodePipeline, GitHub Actions, FluxCD and ArgoCD.
+
+## 8. What nuances of technologies do you work with?
+
+    I bring a multifaceted skill set to the table, encompassing cloud platforms, containerization with Docker and Kubernetes, CI/CD pipelines using Jenkins and GitLab, and infrastructure automation through Terraform and Ansible. 
+    
+    My collaborative efforts with Architects and Network Engineers have fortified my foundation in designing robust cloud infrastructures, allowing me to bridge the gap between complex network requirements and agile DevOps practices effectively.
