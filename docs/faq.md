@@ -1,6 +1,6 @@
 # FAQ
 
-## 1. **How many years of experience do you have in DevOps role? Can you please describe the various activities you were involved extensively as part of the role?**
+## 1. **What makes you the perfect candidate for a Senior DevOps Engineer role? Can you please describe the various activities you were involved extensively as part of the role?**
 
     My six years of DevOps engagement have equipped me with a skill set that I believe matches the role's expectations. I have extensive experience in automating cloud infrastructure across Azure and AWS, as well as managing Kubernetes clusters and workloads. My work in setting up CI/CD pipelines and implementing GitOps strategies has been driven by a commitment to creating reliable and sustainable systems.
 
