@@ -1,7 +1,7 @@
 # 💫 About Me:
 ## Github profile
 
-🏢 I currently run a company focused on Digital Transformation, providing Cloud Architecture Solutions for companies around the globe <br> 🖥️ I'm currently the sole developer in the company, specializing in DevOps since 2017. <br>  🔭 I’m currently working on a project that implements the newest DevOps best practices, including DevSecOps, GitOps and MLOps. <br>👯 I’m looking to collaborate on DevOps, DevSecOps, GitOps and MLOps projects<br>🤝 I’m looking for help with creating the Machine Learning models to be used with my MLOps stack<br>🌱 I’m currently studying to take the AWS Solutions Architect certification <br>💭 Ask me about DevOps, traveling, diving, sky-diving and more…<br>⚡️Fun fact: I have lived in 5 countries in the last 2 years, while working remotely
+🏢 I currently run a company focused on Digital Transformation, providing Cloud Architecture Solutions for companies around the globe <br> 🖥️ I'm currently the sole developer in the company, specializing in DevOps since 2017. <br>  🔭 I’m currently working on a [project](github.com/guirgouveia/devops-stack) that implements the newest DevOps best practices, including DevSecOps, GitOps and MLOps. <br>👯 I’m looking to collaborate on DevOps, DevSecOps, GitOps and MLOps projects<br>🤝 I’m looking for help with creating the Machine Learning models to be used with my MLOps stack<br>🌱 I’m currently studying to take the AWS Solutions Architect certification <br>💭 Ask me about DevOps, traveling, diving, sky-diving and more…<br>⚡️Fun fact: I have lived in 5 countries in the last 2 years, while working remotely
 
 Read the [FAQ](./docs/faq.md) for more information.
 
