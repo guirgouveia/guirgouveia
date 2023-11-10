@@ -51,3 +51,14 @@
 ## 7. Can you share your experience with implementing Continuous Integration/Continuous Deployment (CI/CD) pipelines? What tools and methodologies have you used in this context?
 
     I've worked with many tools for CICD pipeline development and currently, I've been adopting GitOps workflows more often. These tools include Jenkins, GitLab CI, Azure DevOps, AWS CodePipeline, GitHub Actions, FluxCD and ArgoCD.
+
+## 8. What's your experience with Serverless Computing
+    In my role as a DevOps engineer and through my company, Juma Digital Solutions, I have gained significant experience in implementing and managing serverless architectures, primarily using AWS Lambda. My work has involved designing event-driven architectures that leverage Lambda to execute code in response to HTTP requests via Amazon API Gateway, stream processing, and orchestrating workflows with AWS Step Functions.
+    
+    I've utilized serverless computing to build scalable, high-availability applications for industries ranging from fintech to healthcare, where infrastructure management overhead reduction and cost efficiency are paramount. Through serverless patterns, I've enabled companies to focus on core product development without worrying about the operating systems or physical hardware.
+    
+    In addition to AWS Lambda, I have worked with Azure Functions and Google Cloud Functions to provide multi-cloud serverless solutions. I have incorporated Infrastructure as Code (IaC) practices using Terraform and AWS CloudFormation to automate the deployment and versioning of serverless components, ensuring consistent, repeatable processes in line with CI/CD pipelines.
+    
+    Furthermore, I've integrated serverless applications with continuous monitoring and logging solutions, using tools like AWS CloudWatch, Datadog, and ELK stack, to ensure performance metrics and logs are collected and analyzed effectively.
+    
+    Overall, my serverless experience has allowed me to architect solutions that are not only agile and scalable but also cost-effective and resilient, aligning with the DevOps principles of automated, efficient, and reliable system operations.
