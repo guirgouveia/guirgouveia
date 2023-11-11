@@ -28,6 +28,25 @@ Read the [FAQ](./docs/faq.md) for more information.
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 
+## CI/CD Tools:
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![AWS CodePipeline](https://img.shields.io/badge/AWS%20CodePipeline-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+
+## GitOps Tools:
+![FluxCD](https://img.shields.io/badge/fluxcd-%23100000.svg?style=for-the-badge&logo=fluxcd&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/argo-EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white&color=%23EF7B4D)
+
+*## DevSecOps Tools:
+![Vault](https://img.shields.io/badge/vault-%23FFFFFF.svg?style=for-the-badge&logo=vault&logoColor=black)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-377ECC?style=for-the-badge&logo=owasp&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+![SOPS](https://img.shields.io/badge/SOPS-3399FF?style=for-the-badge&logo=mozilla&logoColor=white)
+![KSOPS](https://img.shields.io/badge/KSOPS-000000?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-0D96F6?style=for-the-badge&logo=data:image/png;base64,<base64-encoded-image>&logoColor=white)
+
 ## Cloud Providers
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -61,6 +80,12 @@ Read the [FAQ](./docs/faq.md) for more information.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+
+## Programming Languages:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
 
 ## Project Management & Collaboration:
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
