@@ -1,10 +1,9 @@
 # 💫 About Me:
-
 ## Github profile
 
 🏢 I currently run a company focused on Digital Transformation, providing Cloud Architecture Solutions for companies around the globe <br>
-🖥️ I'm currently the sole developer in the company, specializing in DevOps since 2017. <br>
-🔭 I’m currently working on a [project](github.com/guirgouveia/devops-stack) that implements the newest DevOps best practices, including DevSecOps, GitOps and MLOps. <br>
+ 🖥️ I'm currently the sole developer in the company, specializing in DevOps since 2017. <br>
+  🔭 I’m currently working on a [project](github.com/guirgouveia/devops-stack) that implements the newest DevOps best practices, including DevSecOps, GitOps and MLOps. <br>
 👯 I’m looking to collaborate on DevOps, DevSecOps, GitOps and MLOps projects<br>
 🤝 I’m looking for help with creating the Machine Learning models to be used with my MLOps stack<br>
 🌱 I’m currently studying to take the AWS Solutions Architect certification <br>
@@ -15,11 +14,11 @@ Read the [FAQ](./docs/faq.md) for more information.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jumagouveia)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juma.nomad()
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guirgouveia)
-![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@guilherme.rgouveia)
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/guilherme-ramos-gouveia)
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@JumaGouveia) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juma.nomad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guirgouveia)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@guilherme.rgouveia)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/guilherme-ramos-gouveia)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@JumaGouveia) 
 
 # 💻 Tech Stack:
 
@@ -80,5 +79,8 @@ Read the [FAQ](./docs/faq.md) for more information.
 ---
 [![](https://visitcount.itsvg.in/api?id=guirgouveia&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/guilherme.rgouveia@gmail.com) 
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/guilherme.rgouveia@gmail.com) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
