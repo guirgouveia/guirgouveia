@@ -1,6 +1,6 @@
 # 🚀 Juma Digital Solutions
 
-Welcome to **Juma Digital Solutions**! We specialize in delivering cutting-edge cloud architecture, DevOps, and automation solutions designed to empower your business and accelerate your digital transformation.
+Welcome to **[Juma Digital Solutions](https://github.com/organizations/jumadigitalsolutions)**! We specialize in delivering cutting-edge cloud architecture, DevOps, and automation solutions designed to empower your business and accelerate your digital transformation.
 
 ---
 
